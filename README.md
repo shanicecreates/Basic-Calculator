@@ -13,13 +13,6 @@ Run the script by typing python simp_calculator.py and press Enter.
 # Basic Implementations
 Here are some simple implementations and their results
 
-print(f"2 + 2 = {calculate('add', 2, 2)}")
-print(f"5 - 3 = {calculate('subtract', 5, 3)}")
-print(f"10 * 5 = {calculate('multiply', 10, 5)}")
-print(f"9 / 3 = {calculate('divide', 9, 3)}")
+# Screenshot
+<img width="605" alt="Screenshot 2024-01-24 at 1 26 05 PM" src="https://github.com/shanicecreates/Python-Calculator/assets/123094671/04f9f52f-5d27-4b8b-8983-da8b5db60196">
 
-Results 
-2 + 2 = 4
-5 - 3 = 2
-10 * 5 = 50
-9 / 3 = 3.0
